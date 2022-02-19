@@ -5,6 +5,7 @@ This repo reflects my general progress on Rust, contains bullet points and some 
 - [ ] [Rust Book](https://doc.rust-lang.org/book/)
 - [ ] [Rust By Example](https://doc.rust-lang.org/rust-by-example/index.html)
 - [x] [Rustlings](https://github.com/rust-lang/rustlings/)
+- [ ] [Kattis](https://open.kattis.com/problems)
 - [ ] Algorithms (Inspired by [this](https://github.com/TheAlgorithms/Rust) and [this](https://github.com/EbTech/rust-algorithms))
 - [ ] Rust Toolchain (rustup, rustc, cargo, clippy, rustfmt and [others](https://github.com/rust-dev-tools/dev-tools-team)
 - [ ] Rust [std](https://doc.rust-lang.org/std/)
