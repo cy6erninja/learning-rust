@@ -8,7 +8,7 @@ Inspired by [this article](https://towardsdatascience.com/you-want-to-learn-rust
 - [x] [Rustlings](https://github.com/rust-lang/rustlings/)
 - [ ] [Rust By Example](https://doc.rust-lang.org/rust-by-example/index.html)
 - [ ] [Async Programming](https://rust-lang.github.io/async-book/)
-- [ ] Rust [std](https://doc.rust-lang.org/std/)
+- [ ] Rust [std](https://doc.rust-lang.org/std/) and std::prelude::v1
 
 #### Basic Tooling
 - [ ] Rustup
