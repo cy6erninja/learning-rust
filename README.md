@@ -4,7 +4,7 @@ Inspired by [this article](https://towardsdatascience.com/you-want-to-learn-rust
 
 ### Checklist
 #### Rust Language
-- [ ] [Rust Book](https://doc.rust-lang.org/book/)
+- [ ] [Rust Book](https://doc.rust-lang.org/book/) (Read as much as you can untill it gets too boring and you want to act)
 - [x] [Rustlings](https://github.com/rust-lang/rustlings/)
 - [ ] [Rust By Example](https://doc.rust-lang.org/rust-by-example/index.html)
 - [ ] [Async Programming](https://rust-lang.github.io/async-book/)
