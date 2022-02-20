@@ -9,6 +9,7 @@ Inspired by [this article](https://towardsdatascience.com/you-want-to-learn-rust
 - [ ] [Rust By Example](https://doc.rust-lang.org/rust-by-example/index.html)
 - [ ] [Async Programming](https://rust-lang.github.io/async-book/)
 - [ ] Rust [std](https://doc.rust-lang.org/std/) and std::prelude::v1
+- [ ] [Exercism Rust tutorials](https://exercism.io/)
 
 #### Basic Tooling
 - [ ] Rustup
@@ -28,7 +29,6 @@ and [others](https://github.com/rust-dev-tools/dev-tools-team)
 - [ ] [Ferrous Teaching Material](https://ferrous-systems.github.io/teaching-material/)
 - [ ] [Build a Bitcoin-like blockchain in Rust video tutorial](https://www.youtube.com/watch?v=qaykNPHJcyw)
 - [ ] [Tour of Rust](https://tourofrust.com/index.html)
-- [ ] [Exercism Rust tutorians](https://exercism.io/)
 - [ ] [Ultimate Tic Tac Toe with Rust](https://www.minimax.dev/docs/ultimate/)
 - [ ] [Build a Smart Bookmarking Tool with Rust and Rocket](https://developers.facebook.com/blog/post/2020/06/03/build-smart-bookmarking-tool-rust-rocket/)
 - [ ] [Rust + Actix + CosmosDB (MongoDB) tutorial api](https://dev.to/jbarszczewski/rust-actix-cosmosdb-mongodb-tutorial-api-17i5)
