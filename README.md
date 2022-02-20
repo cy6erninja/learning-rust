@@ -25,3 +25,5 @@ This repo reflects my general progress on Rust, contains bullet points and some 
 - [ ] [Using Rust and WebAssembly to Process Pixels from a Video Feed](https://dev.to/fallenstedt/using-rust-and-webassembly-to-process-pixels-from-a-video-feed-4hhg)
 
 ### [AND A BIT MORE...](https://towardsdatascience.com/you-want-to-learn-rust-but-you-dont-know-where-to-start-fc826402d5ba)
+
+### [COOL RUST DEVELOPMENT ROADMAP](https://github.com/anshulrgoyal/rust-web-developer-roadmap)
