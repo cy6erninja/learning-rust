@@ -2,6 +2,7 @@
 This repo reflects my general progress on Rust, contains bullet points and some scripts that I do during the learning process
 
 ### Checklist
+#### Rust Language
 - [ ] [Rust Book](https://doc.rust-lang.org/book/)
 - [ ] [Rust By Example](https://doc.rust-lang.org/rust-by-example/index.html)
 - [x] [Rustlings](https://github.com/rust-lang/rustlings/)
