@@ -10,6 +10,7 @@ Inspired by [this article](https://towardsdatascience.com/you-want-to-learn-rust
 - [ ] [Async Programming](https://rust-lang.github.io/async-book/)
 - [ ] Rust [std](https://doc.rust-lang.org/std/) and std::prelude::v1
 - [ ] [Exercism Rust tutorials](https://exercism.io/)
+- [ ] [https://adventofcode.com/2018](https://adventofcode.com/2018) and [example solutions](https://github.com/BurntSushi/advent-of-code)
 
 #### Basic Tooling
 - [ ] Rustup
