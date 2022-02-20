@@ -1,4 +1,4 @@
-# Rust Developer Checklist[WIP]
+# Rust Blockchain Developer Checklist[WIP]
 This repo reflects my general progress on Rust, contains bullet points and some scripts that I do during the learning process
 Inspired by [this article](https://towardsdatascience.com/you-want-to-learn-rust-but-you-dont-know-where-to-start-fc826402d5ba) and [this repository](https://github.com/anshulrgoyal/rust-web-developer-roadmap)
 
