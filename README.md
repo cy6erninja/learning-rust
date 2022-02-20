@@ -6,6 +6,7 @@ This repo reflects my general progress on Rust, contains bullet points and some 
 - [ ] [Rust Book](https://doc.rust-lang.org/book/)
 - [ ] [Rust By Example](https://doc.rust-lang.org/rust-by-example/index.html)
 - [x] [Rustlings](https://github.com/rust-lang/rustlings/)
+- [ ] [Async Programming](https://rust-lang.github.io/async-book/)
 - [ ] [Kattis](https://open.kattis.com/problems)
 - [ ] [Spoj](https://www.spoj.com/problems)
 - [ ] Algorithms (Inspired by [this](https://github.com/TheAlgorithms/Rust) and [this](https://github.com/EbTech/rust-algorithms))
