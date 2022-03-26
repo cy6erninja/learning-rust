@@ -40,3 +40,5 @@ and [others](https://github.com/rust-dev-tools/dev-tools-team)
 - [ ] Polkadot Blockchain related thing
 - [ ] [Using Rust and WebAssembly to Process Pixels from a Video Feed](https://dev.to/fallenstedt/using-rust-and-webassembly-to-process-pixels-from-a-video-feed-4hhg)
 
+# Rust Web Development
+- [ ] [Rocket Web Framework](https://rocket.rs/)
