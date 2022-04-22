@@ -45,5 +45,5 @@ and [others](https://github.com/rust-dev-tools/dev-tools-team)
 
 # Books to consider
 [Rust Book](https://doc.rust-lang.org/book/) (Read as much as you can untill it gets too boring and you want to act)
-[Rust for Rustations] (https://nostarch.com/rust-rustaceans)
+[Rust for Rustations](https://nostarch.com/rust-rustaceans)
 [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-6th-Edition/dp/0984782850)
